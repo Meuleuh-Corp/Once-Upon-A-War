@@ -288,7 +288,7 @@ MonoBehaviour:
     width: 393
     height: 926
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/collab
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:
   - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
@@ -499,7 +499,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 042d0000be2b000000000000d0290000d411feff94290000d4cafeffe8290000b82a00007a4fffffe6290000b8290000d82900001e2c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -645,9 +645,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 89.851364, y: -52.75016, z: 173.23404}
+    m_Target: {x: 150.48077, y: -28.344772, z: 168.29213}
     speed: 2
-    m_Value: {x: 89.851364, y: -52.75016, z: 173.23404}
+    m_Value: {x: 150.48077, y: -28.344772, z: 168.29213}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -677,11 +677,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.27183855, y: -0.16016519, z: 0.04593647, w: -0.9478084}
     speed: 2
-    m_Value: {x: -0.27183855, y: -0.16016519, z: 0.04593647, w: -0.9478084}
+    m_Value: {x: -0.27183855, y: -0.16016518, z: 0.045936465, w: -0.9478083}
   m_Size:
-    m_Target: 256.69495
+    m_Target: 218.38403
     speed: 2
-    m_Value: 256.69495
+    m_Value: 218.38403
   m_Ortho:
     m_Target: 0
     speed: 2
