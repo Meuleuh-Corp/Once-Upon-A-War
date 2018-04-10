@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Scenes/Sc\xE8ne Alpha 1.unity"
+- path: "Assets/Sc\xE8nes/Sc\xE8ne de test.unity"
   isLoaded: 1
   isActive: 1
