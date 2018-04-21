@@ -18,6 +18,8 @@ ModelImporter:
     3300002: Cylinder_001
     4300000: Cylinder_001
     4300002: Cylinder
+    6400000: Cylinder
+    6400002: Cylinder_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects:
@@ -25,22 +27,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material_001
-    second: {fileID: 2100000, guid: 36e9ccee309f26c4fbe9c7c67ecfdddd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material_001__9_x_19_mm_Parabellum_-_balle_png
-    second: {fileID: 2100000, guid: cc3c516c749586541ab4d35c8815cba5, type: 2}
+    second: {fileID: 2100000, guid: 94b89173557e7824abc5e8c2de6f8792, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material_002
-    second: {fileID: 2100000, guid: ccaedc0247eff4749a8362f5afbaf5f8, type: 2}
+    second: {fileID: 2100000, guid: 92383a5899ea5a9428e870ca59b6eedc, type: 2}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -68,7 +65,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 0
@@ -90,7 +87,7 @@ ModelImporter:
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
   importAnimation: 0
