@@ -1,0 +1,109 @@
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 0ms
+EMBREE: Created 2 elements, memory usage: 8 320 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.081 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.034 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.427 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+------Entire previous render::run took 6134ms
+Rendering took 6.184 seconds
+Denoising
+Denoising took 0.14 seconds
+CoronaCore::exiting renderFrame
+REPORT: unchanged: 2, Prim: 0, Inst: 0, Mtl: 0, Env: 0
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.012 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.01 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.331 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+------Entire previous render::run took 1622ms
+Rendering took 1.647 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 13
+Primitives with instancing: 13
+Area lights: 2
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 0.909637
+Avg rays per sample: 8.45688
+Rays/s: 2.00598e+06
+Samples/s: 286312
+UHDCache records: 0
+UHDCache records added during viz: 0
+UHDCache rejected %: 0.221208
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 0ms
+EMBREE: Created 2 elements, memory usage: 8 320 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.042 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.033 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.364 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+------Entire previous render::run took 3668ms
+Rendering took 3.69 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 13
+Primitives with instancing: 13
+Area lights: 2
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 1.19929
+Avg rays per sample: 7.89706
+Rays/s: 1.2013e+06
+Samples/s: 168486
+UHDCache records: 0
+UHDCache records added during viz: 0
+UHDCache rejected %: 0.16601
+﻿﻿﻿
