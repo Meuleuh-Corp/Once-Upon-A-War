@@ -106,4 +106,2131 @@ Samples/s: 168486
 UHDCache records: 0
 UHDCache records added during viz: 0
 UHDCache rejected %: 0.16601
-﻿﻿﻿
+﻿﻿﻿﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 2ms
+EMBREE: Created 2 elements, memory usage: 100 352 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.398 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.09 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.337 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 10718ms
+Rendering took 10.803 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 2
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 1.93928
+Avg rays per sample: 5.08016
+Rays/s: 1.81913e+06
+Samples/s: 372239
+UHDCache records: 0
+UHDCache records added during viz: 0
+UHDCache rejected %: 0.0098254
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 112 640 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.072 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.057 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.399 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+------Entire previous render::run took 27847ms
+Rendering took 27.904 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 2
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 3.83438
+Avg rays per sample: 6.7947
+Rays/s: 1.90495e+06
+Samples/s: 284940
+UHDCache records: 49
+UHDCache records added during viz: 0
+UHDCache rejected %: 53.7037
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 108 544 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.053 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.033 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.44 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 13522ms
+Rendering took 13.578 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 2
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 1.32769
+Avg rays per sample: 7.14982
+Rays/s: 1.40091e+06
+Samples/s: 202762
+UHDCache records: 51
+UHDCache records added during viz: 0
+UHDCache rejected %: 55.0921
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 112 640 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.039 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.029 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.406 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 12394ms
+Rendering took 12.44 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 3
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 2.01804
+Avg rays per sample: 5.2136
+Rays/s: 1.69451e+06
+Samples/s: 336384
+UHDCache records: 112
+UHDCache records added during viz: 0
+UHDCache rejected %: 65.4512
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 108 544 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.044 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.032 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.41 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+------Entire previous render::run took 10955ms
+Rendering took 11.007 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 3
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 2.18715
+Avg rays per sample: 3.97209
+Rays/s: 1.57346e+06
+Samples/s: 412036
+UHDCache records: 160
+UHDCache records added during viz: 0
+UHDCache rejected %: 63.4038
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 112 640 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.043 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.038 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.494 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+Rendering pass 8
+------Entire previous render::run took 76716ms
+Rendering took 76.761 seconds
+Denoising
+Denoising took 0.342 seconds
+CoronaCore::exiting renderFrame
+REPORT: unchanged: 3, Prim: 0, Inst: 0, Mtl: 0, Env: 0
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.011 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.018 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.45 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+------Entire previous render::run took 49658ms
+Rendering took 49.698 seconds
+Denoising
+Denoising took 0.426 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 3
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 6.15234
+Avg rays per sample: 6.36457
+Rays/s: 1.61854e+06
+Samples/s: 256700
+UHDCache records: 213
+UHDCache records added during viz: 0
+UHDCache rejected %: 78.7328
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 112 640 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.04 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.028 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.478 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 10273ms
+You need to render at least 2 passes to use the denoiser.
+Rendering took 10.342 seconds
+CoronaCore::exiting renderFrame
+REPORT: unchanged: 3, Prim: 0, Inst: 0, Mtl: 0, Env: 0
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.015 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.011 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.576 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+------Entire previous render::run took 57007ms
+Rendering took 57.069 seconds
+Denoising
+Denoising took 0.45 seconds
+CoronaCore::exiting renderFrame
+REPORT: unchanged: 3, Prim: 0, Inst: 0, Mtl: 0, Env: 0
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.007 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.01 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.381 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+------Entire previous render::run took 14794ms
+Rendering took 14.84 seconds
+Denoising
+Denoising took 0.624 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 3
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 2.55024
+Avg rays per sample: 4.00394
+Rays/s: 1.39016e+06
+Samples/s: 356346
+UHDCache records: 212
+UHDCache records added during viz: 0
+UHDCache rejected %: 63.3454
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 100 352 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.045 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.029 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.42 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 8149ms
+Rendering took 8.197 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 3
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 1.55604
+Avg rays per sample: 4.16856
+Rays/s: 1.55567e+06
+Samples/s: 393633
+UHDCache records: 210
+UHDCache records added during viz: 0
+UHDCache rejected %: 63.3933
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 2 elements, memory usage: 112 640 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.043 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.041 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.435 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+------Entire previous render::run took 14777ms
+Rendering took 14.824 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1303
+Primitives with instancing: 1303
+Area lights: 2
+Geometry groups: 3
+Materials: 3
+Instances: 3
+Portals: 0
+Area lights: 2
+Avg samples per pixel: 2.40433
+Avg rays per sample: 4.43736
+Rays/s: 1.44595e+06
+Samples/s: 336321
+UHDCache records: 249
+UHDCache records added during viz: 0
+UHDCache rejected %: 74.0411
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 1 elements, memory usage: 104 448 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.05 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.035 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.386 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+Rendering pass 7
+------Entire previous render::run took 108357ms
+Rendering took 108.408 seconds
+Denoising
+Denoising took 0.352 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 6.05831
+Avg rays per sample: 11.083
+Rays/s: 1.27935e+06
+Samples/s: 115882
+UHDCache records: 245
+UHDCache records added during viz: 0
+UHDCache rejected %: 87.3215
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 1 elements, memory usage: 108 544 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.051 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.034 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.367 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 5
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+Rendering pass 6
+------Entire previous render::run took 69560ms
+Rendering took 69.617 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 5.5809
+Avg rays per sample: 8.25345
+Rays/s: 1.36413e+06
+Samples/s: 166232
+UHDCache records: 247
+UHDCache records added during viz: 0
+UHDCache rejected %: 87.3112
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 2ms
+EMBREE: Created 1 elements, memory usage: 96 256 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.044 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.029 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.459 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+------Entire previous render::run took 20135ms
+Rendering took 20.179 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 3.84569
+Avg rays per sample: 4.48695
+Rays/s: 1.7313e+06
+Samples/s: 395184
+UHDCache records: 261
+UHDCache records added during viz: 0
+UHDCache rejected %: 86.9067
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 3ms
+EMBREE: Created 1 elements, memory usage: 96 256 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.081 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.063 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.684 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 18816ms
+Rendering took 18.889 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 1.78751
+Avg rays per sample: 4.67248
+Rays/s: 881999
+Samples/s: 196230
+UHDCache records: 228
+UHDCache records added during viz: 0
+UHDCache rejected %: 87.3291
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 1 elements, memory usage: 96 256 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.048 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.041 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.721 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 18631ms
+You need to render at least 2 passes to use the denoiser.
+Rendering took 18.717 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 1.62941
+Avg rays per sample: 4.73521
+Rays/s: 821349
+Samples/s: 180518
+UHDCache records: 243
+UHDCache records added during viz: 0
+UHDCache rejected %: 87.0965
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 3, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 1 elements, memory usage: 104 512 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.056 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.035 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.955 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 26667ms
+Rendering took 26.718 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1304
+Primitives with instancing: 1304
+Area lights: 1
+Geometry groups: 3
+Materials: 3
+Instances: 3
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 1.50782
+Avg rays per sample: 18.975
+Rays/s: 2.14117e+06
+Samples/s: 117023
+UHDCache records: 1882
+UHDCache records added during viz: 0
+UHDCache rejected %: 33.8378
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 1 elements, memory usage: 96 256 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.042 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.033 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.429 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+------Entire previous render::run took 15563ms
+Rendering took 15.631 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 2.60899
+Avg rays per sample: 4.58333
+Rays/s: 1.54078e+06
+Samples/s: 346107
+UHDCache records: 244
+UHDCache records added during viz: 0
+UHDCache rejected %: 87.0747
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 4ms
+EMBREE: Created 1 elements, memory usage: 112 640 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.071 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.032 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.472 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 3
+Rendering pass 4
+Rendering pass 4
+Rendering pass 4
+------Entire previous render::run took 19446ms
+Rendering took 19.516 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 3.14019
+Avg rays per sample: 4.98596
+Rays/s: 1.62168e+06
+Samples/s: 333649
+UHDCache records: 263
+UHDCache records added during viz: 0
+UHDCache rejected %: 86.9458
+﻿====RENDER STARTED====
+Core build timestamp: Jan 17 2017 14:45:23
+REPORT: unchanged: 0, Prim: 2, Inst: 0, Mtl: 0, Env: 1
+CoronaCore::renderFrame before core->onFrame
+Calculating displacement took 0 seconds
+rtcCommit: 1ms
+EMBREE: Created 1 elements, memory usage: 108 544 bytes.
+CoronaCore::renderFrame after core->onFrame
+CoronaCore::renderFrame before unique materials
+CoronaCore::renderFrame after unique materials
+Preparing geometry took 0.059 seconds
+CoronaCore:RenderFrame: after directLight
+Precomputing light distribution took 0.039 seconds
+CoronaCore::renderFrame: after GI precompute
+Computing primary GI took 0.448 seconds
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering initial pass
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+Rendering pass 2
+------Entire previous render::run took 9848ms
+Rendering took 9.911 seconds
+CoronaCore::exiting renderFrame
+Unique Primitives: 1302
+Primitives with instancing: 1302
+Area lights: 1
+Geometry groups: 2
+Materials: 2
+Instances: 2
+Portals: 0
+Area lights: 1
+Avg samples per pixel: 1.64019
+Avg rays per sample: 4.73119
+Rays/s: 1.54754e+06
+Samples/s: 343164
+UHDCache records: 251
+UHDCache records added during viz: 0
+UHDCache rejected %: 87.0854
